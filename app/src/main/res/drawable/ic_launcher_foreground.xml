@@ -1,0 +1,74 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Central White Circular Glow Badge for high contrast -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+    <!-- Golden Paddy Stalk Central Stem -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFC107"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M48,82 C50,70 54,58 58,34" />
+
+    <!-- Left Paddy Grains (Warm Harvest Amber & Gold) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M51,68 C44,67 40,61 44,56 C48,51 53,58 51,68 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M53,58 C46,57 42,51 46,46 C50,41 55,48 53,58 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M55,48 C48,47 45,41 49,36 C53,31 57,38 55,48 Z" />
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M57,38 C52,36 50,31 53,27 C56,23 60,29 57,38 Z" />
+
+    <!-- Right Paddy Grains -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M51,64 C58,63 62,57 58,52 C54,47 49,54 51,64 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M53,54 C60,53 64,47 60,42 C56,37 51,44 53,54 Z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M55,44 C62,43 66,37 62,32 C58,27 53,34 55,44 Z" />
+
+    <!-- Top Grain Tip -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M58,33 C58,25 61,23 61,25 C62,29 59,32 58,33 Z" />
+
+    <!-- Digital Hub & Queue Token Verification Shield / Checkmark (Smart Procurement) -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M66,62 L73,69 L84,55 L81,52 L73,63 L69,59 Z" />
+
+    <!-- Circular Verified Status Badge Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#81C784"
+        android:strokeWidth="2.5"
+        android:pathData="M75,62m-13,0a13,13 0,1 1,26 0a13,13 0,1 1,-26 0" />
+
+    <!-- Hub Connection Nodes -->
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M75,47m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M89,62m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M75,77m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+</vector>
+

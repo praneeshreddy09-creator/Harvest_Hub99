@@ -1,0 +1,6 @@
+{
+  "name": "HarvestHub",
+  "description": "Smart paddy procurement & queue management platform with slot booking, live arrival updates, instant digital quality testing, automated weighbridge, and DBT payment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
